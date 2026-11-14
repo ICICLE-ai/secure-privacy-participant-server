@@ -1,0 +1,14 @@
+# ICICLE CI/CD config (cicd-templates v2.3.0): https://github.com/ICICLE-ai/cicd-templates/wiki/Quick-start
+# S.E.C.U.R.E. Privacy - participant server (datasets, privacy tooling, local training)
+schema-version: 3
+# Image name AND Tapis pod ID (ghcr.io/icicle-ai/secureprivacyparticipant, pod secureprivacyparticipant).
+service-name: secureprivacyparticipant
+# Becomes the image tag. Bump for every deployable build.
+service-version: 1.0.0
+project-name: secure-privacy
+service-type: ai
+runtime-type: python
+runtime-version: "3.12.15"
+include-dev-dependencies: false
+build-apt-packages: []
+runtime-apt-packages: []
