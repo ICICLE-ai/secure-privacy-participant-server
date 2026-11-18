@@ -1,0 +1,16 @@
+- id: "SECUREPrivacyParticipantServer:1.0.0"
+  owner: "Osama Zafar"
+  primaryThrust: "core/CI4AI"
+  name: "S.E.C.U.R.E. Privacy Participant Server"
+  status: "AlphaRelease"
+  description: "Dataset storage, privacy tooling (differential privacy, location privacy, k-anonymity), local model training for collaborative learning, and membership-inference risk analysis. Part of S.E.C.U.R.E. Privacy, Secure Exchange, Compliance, Understanding & Risk Evaluation: a domain-agnostic collaborative machine learning platform where researchers analyze data and train models together with privacy-preserving features."
+  componentVersion: "1.0.0"
+  targetIcicleRelease: "2026-11"
+  licenseUrl: "https://github.com/ICICLE-ai/secure-privacy-participant-server?tab=BSD-3-Clause-1-ov-file"
+  publicAccess: true
+  sourceCodeUrl: "https://github.com/ICICLE-ai/secure-privacy-participant-server"
+  codeReviewConducted: false
+  testsWritten: false
+  developerDocumentationAvailable: true
+  developerDocumentationUrl: "https://github.com/ICICLE-ai/secure-privacy-participant-server#readme"
+  trainingTutorialsAvailable: false
